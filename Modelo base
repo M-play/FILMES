@@ -1,32 +1,7 @@
 
 
 
-MODELO COM VÁRIOS LINKS DO GDRIVE
 
-<item>
-<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-
-MODELO COM LINKS VARIAVEIS + LINK DO GDRIVE
-
-<item>
-<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
-<link>URL AQUI$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-
-MODELO GDRIVE DE APENAS UM LINK
 
 <item>
 <title>[B]OS SEM FLORESTA[/B]</title>
@@ -42,10 +17,36 @@ MODELO GDRIVE DE APENAS UM LINK
 MODELO UNIVERSAL DE APENAS UM LINK - LINK DIRETO
 
 <item>
-<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>[B]CARROS[/B]</title>
+<link>https://d3ixstokuf4pmt.cloudfront.net/RCFServer2/ondemand/CARROS1.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nM2NRV8wt3n3ffoHQ3KdMkY3vR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nM2NRV8wt3n3ffoHQ3KdMkY3vR.jpg</fanart>
+<info>Ao viajar para a Califórnia, o famoso carro de corridas Relâmpago McQueen se perde e vai parar em Radiator Springs, uma cidadezinha na Rota 66. Ele conhece novos amigos e aprende lições que mudam sua forma de encarar a vida.</info>
+<genre></genre>
+</item>
+
+
+
+MODELO UNIVERSAL DE APENAS UM LINK - LINK DIRETO
+
+<item>
+<title>[B]CARROS 2[/B]</title>
+<link>https://d3ixstokuf4pmt.cloudfront.net/RCFServer2/ondemand/CARROS2.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIKaabvE40T39nOIngcZPcPJeYe.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/8T4Cc2Cq5xkYcKHoiVlhvIjOeIA.jpg</fanart>
+<info>O astro das corridas, Relâmpago McQueen, e o carro-guincho, Mate, viajam para disputar o primeiro Grand Prix Mundial, que irá revelar o carro mais veloz do planeta. Nessa jornada imperdível, Mate se envolve com um grupo de espionagem e vive grandes aventuras com seus amigos.</info>
+<genre></genre>
+</item>
+
+
+
+MODELO UNIVERSAL DE APENAS UM LINK - LINK DIRETO
+
+<item>
+<title>[B]CARROS 3[/B]</title>
+<link>https://d3ixstokuf4pmt.cloudfront.net/RCFServer4/ondemand/CRS3.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVPFdORefTKXKFiSktrXbiFDNAK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/rND0GSv8X2Zzs7VhyFAs9BCEmYE.jpg</fanart>
+<info>Durante mais uma disputa eletrizante nas pistas, o campeão Relâmpago McQueen acelerou demais e acabou perdendo o controle. Agora, após ter capotando várias vezes e quase ter partido dessa para melhor, o vermelhinho vai ter sua vida alterada para sempre. O acidente foi tão grave que, com os estragos, McQueen pode ter que se aposentar de vez.</info>
 <genre></genre>
 </item>
