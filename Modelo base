@@ -1,90 +1,179 @@
-
-
-
-
-
 <item>
-<title>[B]OS SEM FLORESTA[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ryQT3aqczVKUuU2Xbitk-_7zF0Ld_Kpt/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNPhs8Gkm1SJ4vuZDnytZnj1EsY.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNPhs8Gkm1SJ4vuZDnytZnj1EsY.jpg</fanart>
-<info>A primavera chegou, o que faz com que os animais da floresta despertem da hibernação. Ao acordar eles logo têm uma surpresa: surgiu ao redor de seu habitat natural uma grande cerca verde. Inicialmente eles temem o que há por detrás da cerca, até que RJ (Bruce Willis) revela que foi construída uma cidade ao redor da floresta em que vivem, que agora ocupa apenas um pequeno espaço. RJ diz ainda que no mundo dos humanos há as mais diversas guloseimas, convencendo os demais a atravessar a cerca. Entretanto esta atitude desagrada o cauteloso Verne (Garry Shandling), que achava melhor permanecer onde estavam inicialmente.</info>
+<title>[B]A ESPERA DE UM MILAGRE[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jmA5M239_k2j2EoCHo5sdWmRrriFXKDQ/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RKjFMIlb3UmvUtxeM1uzS0WMhG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/l6hQWH9eDksNJNiXWYRkWqikOdu.jpg</fanart>
+<info>1935, no corredor da morte de uma prisão sulista. Paul Edgecomb (Tom Hanks) é o chefe de guarda da prisão, que temJohn Coffey (Michael Clarke Duncan) como um de seus prisioneiros. Aos poucos, desenvolve-se entre eles uma relação incomum, baseada na descoberta de que o prisioneiro possui um dom mágico que é, ao mesmo tempo, misterioso e milagroso.</info>
 <genre></genre>
 </item>
 
+<item>
+<title>[B]A MENINA QUE ROUBAVA LIVROS[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uMhaPdryQv-GtOnYBMtcocnDZTPkMzBn/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CyG9CkuEfGXxygOUagnWPCQQnL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/oxbijRUHyGgyfcnPYH3NDhxeesU.jpg</fanart>
+<info>Durante a Segunda Guerra Mundial, uma jovem garota chamada Liesel Meminger (Sophie Nélisse) sobrevive fora de Munique através dos livros que ela rouba. Ajudada por seu pai adotivo (Geoffrey Rush), ela aprende a ler e partilhar livros com seus amigos, incluindo um homem judeu (Ben Schnetzer) que vive na clandestinidade em sua casa. Enquanto não está lendo ou estudando, ela realiza algumas tarefas para a mãe (Emily Watson) e brinca com a amigo Rudy (Nico Liersch).</info>
+<genre></genre>
+</item>
 
+<item>
+<title>[B]AS CRONICAS DE NARNIA - O LEÃO, A FEITICEIRA E O GUARDA ROUPAS[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_Kc12biQujJnv7JcxjznImr9tivQGl6b/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rElTfcZ09mfiDtD1wdE9EyXcUs.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/9iRRfMZbnpgHDdKi2lczGGYZXDo.jpg</fanart>
+<info>Durante os bombardeios da Segunda Guerra Mundial de Londres, quatro irmãos ingleses são enviados para uma casa de campo onde eles estarão seguros. Um dia, Lucy encontra um guarda-roupa que a transporta para um mundo mágico chamado Nárnia. Depois de voltar, ela logo volta a Nárnia com seus irmãos, Peter e Edmund, e sua irmã, Susan. Lá eles se juntam ao leão mágico, Aslan, na luta contra a Feiticeira Branca.</info>
+<genre></genre>
+</item>
 
-item>
-<title>[B]CARROS[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UBVIBP3WWwAZWWavQxf_X4aQXcPYLsnd/view</link>
+<item>
+<title>[B]AS CRONICAS DE NARNIA  2 - PRINCIPE CASPIAN[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QTuiHDqlaez2Zgeyr4zQE5__jMBU_DTx/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iP4njoOx6sC3tSWffET1q1wqTW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/bb5syHBUEsqL9PguV8kKf3noTFl.jpg</fanart>
+<info>Um ano após a sua última aventura, os irmãos Pevensie regressam à terra mágica de Nárnia e descobrem que 1300 anos se passaram. Nárnia está em guerra novamente e os irmãos unem forças com o Príncipe Caspian para derrotar o maldoso Rei Miraz e restaurar a paz.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]AS CRONICAS DE NARNIA 3 - A VIAGEM DO PEREGRINO A ALVORADA[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18Vf0d5dsP0QNFwfirjtzKnoE6rSLIj2B/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jo28SHz8d3VBt92vPWXM8yLyKb6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/vFzv2t9lHaOU2JDAQ2QhKYJdEAd.jpg</fanart>
+<info>Lúcia (Georgie Henley), Edmundo (Skandr Keynes) e Eustáquio (Will Poulter) retornam para Nárnia, onde encontram com príncipe Caspian (Ben Barnes), agora rei, e outros amigos. Buscando os Sete Fidalgos Desaparecidos de Telmar, eles começam uma nova aventura a bordo do navio Peregrino da Alvorada e irão encarar guerreiros, dragões, anões e tritões.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]ATÉ O ULTIMO HOMEM[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1V0MYeiE_qCCzrwspIH2wMU_o5tm8YkbU/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/88sCL8OQMoieKpHClqRCCbcgH6w.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/3wLMx7wT27TF8KaF6GywrrpXFDF.jpg</fanart>
+<info>Desmond T. Doss, foi o médico do Exército Americano da Segunda Guerra Mundial, que serviu durante a Batalha de Okinawa, se recusando a matar pessoas, tornando-se o primeiro homem da história americana a receber a Medalha de Honra sem disparar um tiro.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]BATMAN - O CAVALEIRO DAS TREVAS[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1146J0pg5alhED9xfYS4g1vynWA_VMt6E/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGZX91hIqM9Uu0KGhd4MUaJ0Rtm.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hkBaDkMWbLaf8B1lsWsKX7Ew3Xq.jpg</fanart>
+<info>Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]BATMAN - O CAVALEIRO DAS TREVAS RESSURGE[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zujWaBHFuo-PPpJhSbbi7z1M2OuHUGda/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRwO5BPPgkTNo1PoomZPE7wkKvQ.jpg</thumbnail>
+<fanart>"</fanart>
+<info>Após ser culpado pela morte de Harvey Dent e passar de herói a vilão, Batman desaparece. As coisas mudam com a chegada de uma ladra misteriosa, a Mulher-Gato, e Bane, um terrorista mascarado, que fazem Batman abandonar seu exílio forçado.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]BATMAN VS SUPERMAN - A ORIGEM DA JUSTICA[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vh6pjeGH0GQupLepPCZn5PylcRg.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/nNvHXwGqsy8iLjZ0AJIcnkZhvdn.jpg</fanart>
+<info>Temendo que as ações de um super-herói divino não tenham sido controladas, o formidável e vigoroso vigilante de Gotham City enfrenta o salvador mais reverenciado e moderno de Metrópolis, enquanto o mundo luta com o tipo de herói que realmente precisa. E com Batman e Superman em guerra um com o outro, uma nova ameaça rapidamente surge, colocando a humanidade em maior perigo do que nunca antes.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]CAPITÃO AMERICA - O PRIMEIRO VINGADOR[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_j4d8dgZNLdNnVwbXJoXzFZTkE/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYijVAPunk6neVW2KHKE4Lp45ZU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/75IpgAbDKOOmZ0H4AUf9qf5QprB.jpg</fanart>
+<info>Steve Rogers é um jovem que participa de experiências visando a criação do supersoldado americano. Quando os oficiais militares conseguem transformá-lo em uma arma humana, eles percebem que não podem arriscar a vida do jovem nas batalhas de guerra.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]CAPITÃO AMERICA - O SOLDADO INVERNAL[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16xY5dAgSfDlV0njBHp_EToEEAO7j0PCY/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBFPjLLHXkBojKpWDluJxnpM24h.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/yHB0eNR8rvCpn0VdghEwBsXAC0N.jpg</fanart>
+<info>Após os eventos catastróficos em Nova York com Os Vingadores, Steve Rogers, segue tentando se ajustar ao mundo moderno. Porém, quando um colega da agência S.H.I.E.L.D. é atacado, Steve se vê preso em uma rede de intrigas que ameaça colocar o mundo em risco. Em parceria com a Viúva Negra e Falcão, seu novo aliado, o Capitão América tem que enfrentar um misterioso e inesperado inimigo, o Soldado Invernal.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]CAPITÃO AMERICA - GUERRA CIVIL[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1C1U7YeqRMXpnF4bCuqNaFNh-sXcnmKOG/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAoCQmTMGpAZmVWSN5d0fB5YOEu.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/7FWlcZq3r6525LWOcvO9kNWurN1.jpg</fanart>
+<info>O ataque de Ultron fez com que os políticos buscassem algum meio de controlar os super-heróis, já que seus atos afetam toda a humanidade. Tal decisão coloca o Capitão América em rota de colisão com Tony Stark, o Homem de Ferro.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]CREPUSCULO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NIJlQpXTRlADg2nGH_nctCi_nTJvHvRk/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgxHeCZE3H9n5jQFumQPs9HBnTV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/20pEc3LeWSs5MCtVwTMPxpZqDE6.jpg</fanart>
+<info>Isabella Swan (Kristen Stewart) e seu pai, Charlie (Billy Burke), mudaram-se recentemente. No novo colégio ela logo conhece Edward Cullen (Robert Pattinson), um jovem admirado por todas as garotas locais e que mantém uma aura de mistério em torno de si. Eles aos poucos se apaixonam, mas Edward sabe que isto põe a vida de Isabella em risco</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]CREPUSCULO - LUA NOVA[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uFi84j9oOmzkAAUEruKjfkvx1nFqGsJa/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRl49JRhLi2mBhe1HcQcby205QN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/eWAmfnP2DGIS2sEZ8tSua6yfwLA.jpg</fanart>
+<info>Um incidente na festa de aniversário de Isabella "Bella" Swan (Kristen Stewart) faz com que Edward Cullen (Robert Pattinson) vá embora. Arrasada, Bella encontra consolo ao lado de Jacob Black (Taylor Lautner). Aos poucos ela é atraída para o mundo dos lobisomens, ancestrais inimigos dos vampiros, e passa a ter sua lealdade testada. Quando descobre que a vida de Edward está em perigo, Bella corre contra o tempo para ajudá-lo no combate aos Volturi, um dos mais poderosos clãs de vampiros existentes.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]CREPUSCULO - ECLIPSE[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MbjM9giuYxDkvrdyrZY62vvJCH-ttnc6/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRCDPUxmsaZrSYAnhXXp2q0xgqZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/yiWfT2Bl1Nul3Xie39Ahs3FqSjA.jpg</fanart>
+<info>O perigo novamente ronda Bella com uma série de crimes misteriosos aterrorizando Seattle e um vampiro malicioso em busca de vingança. Em meio ao tumulto, Bella precisa escolher entre seu amor por Edward e sua amizade com Jacob, sabendo que sua decisão pode desencadear uma batalha entre vampiro e lobisomem.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]CREPUSCULO 4 - AMANHECER[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xfU6cMqbdksBHhytRq7-pe-0c7UrVLjy/view</link>
 <thumbnail>capa</thumbnail>
 <fanart>"</fanart>
 <info>informacao</info>
 <genre></genre>
 </item>
 
-item>
-<title>[B]CARROS 2[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ld0T2t9pM-kMniihkcjq1k3snk56HbCL/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIKaabvE40T39nOIngcZPcPJeYe.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/8T4Cc2Cq5xkYcKHoiVlhvIjOeIA.jpg</fanart>
-<info>O astro das corridas, Relâmpago McQueen, e o carro-guincho, Mate, viajam para disputar o primeiro Grand Prix Mundial, que irá revelar o carro mais veloz do planeta. Nessa jornada imperdível, Mate se envolve com um grupo de espionagem e vive grandes aventuras com seus amigos.</info>
+<item>
+<title>[B]CREPUSCULO 5 - AMANHECER PARTE 2[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14jQW9TrinfN8OflYAXYdsxNfH85QXIS_/view</link>
+<thumbnail>capa</thumbnail>
+<fanart>"</fanart>
+<info>informacao</info>
 <genre></genre>
 </item>
-
-
-item>
-<title>[B]CARROS 3[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EwnyjLJ7017KTC0S5B19ljNK-DjSPl0f/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVPFdORefTKXKFiSktrXbiFDNAK.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/rND0GSv8X2Zzs7VhyFAs9BCEmYE.jpg</fanart>
-<info>Durante mais uma disputa eletrizante nas pistas, o campeão Relâmpago McQueen acelerou demais e acabou perdendo o controle. Agora, após ter capotando várias vezes e quase ter partido dessa para melhor, o vermelhinho vai ter sua vida alterada para sempre. O acidente foi tão grave que, com os estragos, McQueen pode ter que se aposentar de vez.</info>
-<genre></genre>
-</item>
-
-item>
-<title>[B]TRQUE DE MESTRE[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uWYJd2woNqgHRyhiVZ8Xfp3xmRWZnOgD/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZyC1mXEs13adcmU2NibCP0W5F6.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/rYxn6wryjrjeVTBCOy3JGoyFAGg.jpg</fanart>
-<info>Um agente do F.B.I. e uma detetive da Interpol rastreiam uma equipe de ilusionistas que realizam assaltos a bancos durante suas apresentações e recompensam seu público com o dinheiro.</info>
-<genre></genre>
-</item>
-
-
-
-MODELO UNIVERSAL DE APENAS UM LINK - LINK DIRETO
 
 <item>
-<title>[B]OS ORFÃOS[/B]</title>
-<link>https://908359895.tapecontent.net/radosgw/r0P6Dpvb94IY02/0JcM2C9Jn4NK2h_S86pLUWdkv2NEYRxuDXF8M-hyefe9eo2EjE9Rg7c5TZ93XmrQ9mDjOmrQLBV8m2wzJpmOXjpgu_kH3bA6JWk7REOb7AHl8aFOUw6u8mneZjIRpTwsxEvecu2FYvu-hmM72A4mTFHGUifBF7LOGJnv2fpr8qrLD2QvrW7aktCVk4Y0IGG8cLLwDL_DL8A7sUKYA_Xq5TMjwQp7rXawpowzcYK-Xc5BHv13pIeSgyzwS_BDTIBZG7h3AYJB4PqbXcVL/492611.mp4?stream=1</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRXzwckAK3GqMfgbl2h0uWN6Id0.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/lYJDf7oa1r9JvRITN1M2Lzis01D.jpg</fanart>
-<info>Kate (Mackenzie Davis) é uma jovem professora contratada para trabalhar como governanta na mansão de uma família rica. Na casa, localizada em Essex, Londres, vive Flora (Brooklynn Prince) e Miles (Finn Wolfhard), irmãos órfãos que perderam ambos os pais em um acidente próximo à casa. No entanto, ela logo percebe que no local existem outros moradores, não necessariamente vivos.</info>
+<title>[B]DE VOLTA PARA O FUTURO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YRSZcjQn9oWfQuf7G_z1hbLOmn_tU4Ya/view</link>
+<thumbnail>capa</thumbnail>
+<fanart>"</fanart>
+<info>informacao</info>
 <genre></genre>
 </item>
 
-
-
-MODELO GDRIVE DE APENAS UM LINK
-
 <item>
-<title>[B]O REI LEÃO 2019[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12M1MDxtS3FjSvDOWnjeCGkSl636RDE6z/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/devZdyPRXMiN8HHiX7Y8s0LLEee.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/nRXO2SnOA75OsWhNhXstHB8ZmI3.jpg</fanart>
-<info>Simba é um jovem leão cujo destino é se tornar o rei da selva. Entretanto, uma armadilha elaborada por seu tio Scar faz com que Mufasa, o atual rei, morra ao tentar salvar o filhote. Consumido pela culpa, Simba deixa o reino rumo a um local distante, onde encontra amigos que o ensinam a mais uma vez ter prazer pela vida.</info>
+<title>[B]19ºEPISÓDIO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI</link>
+<thumbnail>capa</thumbnail>
+<fanart>"</fanart>
+<info>informacao</info>
 <genre></genre>
 </item>
 
-
-MODELO UNIVERSAL DE APENAS UM LINK - LINK DIRETO
-
 <item>
-<title>[B]BLOODSHOT[/B]</title>
-<link>https://861520519.tapecontent.net/radosgw/eKk86vrllkIYM0g/K7_KW7T_MU7ggtluZGCp4QPXCK7b4D9dD_qfFbaBT_qWGdUnqmEynW5lPIXAxmWPOoSZIgYIs_Q4gzsNUXRU1Hc33iKDCtF7Kk0vTyNxSYzsBn8pdZ4teZRlFLHc-6OT8OVJfN6JVdwKo-_h8Bob0Itxg2ZpZVhaeXpW8YQyNC19PkUzSLZ1Ui0DJWN1uqTftfcQpKg-WWiBVl-v2a7s-VS7-eXF61bfT7SPKUJKtKNYzmupBSvckoH_w7qOKfvkBF1TojRvh9e9rZNx/338762-1.mkv.mp4?stream=1</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z7AJiQhocA20MkI5JXZ6OjTxEW.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zlqMASc3vEtdym2OvXgE7fC6onT.jpg</fanart>
-<info>Bloodshot é um ex-soldado com poderes especiais: o de regeneração e a capacidade de se metamorfosear. Assassinado ao lado da esposa, ele é ressuscitado e aprimorado com nanotecnologia, desenvolvendo tais habilidades. Ao apagarem sua memória várias vezes, ele finalmente descobre quem realmente é e parte em um busca de vingança daqueles que mataram sua famíli</info>
+<title>[B]20ºEPISÓDIO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI</link>
+<thumbnail>capa</thumbnail>
+<fanart>"</fanart>
+<info>informacao</info>
 <genre></genre>
 </item>
